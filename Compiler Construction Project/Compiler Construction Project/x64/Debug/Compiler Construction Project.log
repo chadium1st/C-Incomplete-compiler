@@ -1,0 +1,3 @@
+﻿  Syntax.cpp
+C:\Users\chadium\source\repos\Compiler Construction Project\Compiler Construction Project\Syntax.cpp(32,10): warning C4101: 'lookAhead': unreferenced local variable
+  Compiler Construction Project.vcxproj -> C:\Users\chadium\source\repos\Compiler Construction Project\x64\Debug\Compiler Construction Project.exe
